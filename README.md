@@ -44,7 +44,7 @@ Buatlah program menggunakan konserp MVC yang diimplementasikan kedalam bahasa pe
 - Tidak perlu menggunakan UML selama desain dan penamaan file masih jelas serta mengikuti contoh kode yang diberikan.
 - Jika waktu pengumpulan sudah habis dan Anda ingin mengupdate kode program, update pada branch lain karena mengupdate branch Main setelah waktu pengumpulan berakhir maka program tidak akan diperiksa.
 - File README berisi desain program, penjelasan alur, dan dokumentasi saat program dijalankan (screenshot/screen record).
-- Anda dapat mengumpulkan hingga batas waktu terakhir yakni pada hari **Jumat, 02 Juni 2023 M / 13 Dzulkaidah 1444 H Pukul 23.59 WIB** (Extended).
+- Anda dapat mengumpulkan hingga batas waktu terakhir yakni pada hari **Jumat, 02 Juni 2023 M / 13 Dzulkaidah 1444 H Pukul 23.59 WIB** (Hasil negosiasi pada saat praktikum terakhir Rabu,31/Mei/2023 di Lab. Praktikum Gd.FPMIPA C Lt2).
 
 ## Bahasa Pemrograman Yang Dipakai :
 - [X] [*Hypertext Preprocessor* atau PHP](https://www.hostinger.co.id/tutorial/apa-itu-php/) : bahasa penulisan skrip *open-source* yang banyak digunakan dalam pemrograman atau pengembangan website *(web development)*. Bahasa ini umumnya dijalankan dalam komunikasi sisi server, dan saat ini didukung oleh hampir semua sistem.
